@@ -1,0 +1,12 @@
+{
+  "appName": "ALT1-HardClues",
+  "description": "Alt1 Hard Clue Solver (YT-Trekz)",
+  "appUrl": "./index.html",
+  "configUrl": "./appconfig.json",
+  "iconUrl": "./images/logo.png",
+  "defaultWidth": 450,
+  "defaultHeight": 650,
+  "minWidth": 300,
+  "minHeight": 300,
+  "permissions": "pixel,gamestate,overlay"
+}
